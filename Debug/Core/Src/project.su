@@ -1,0 +1,4 @@
+project.c:6:6:startString	8	static
+project.c:12:6:debounce	8	static
+project.c:24:6:resetLEDs	8	static
+project.c:35:6:processFlags	16	static

@@ -1,0 +1,5 @@
+state_machine.c:10:6:states	4	static
+state_machine.c:17:6:stateMachine	8	static
+state_machine.c:312:6:resetFlags	4	static
+state_machine.c:337:6:resetStates	4	static
+state_machine.c:346:6:checkStop	4	static
